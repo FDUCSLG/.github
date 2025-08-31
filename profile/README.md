@@ -10,4 +10,4 @@
 
 欢迎加 QQ 群：926958092
 
-[COMP101 项目地址](https://www.fducslg.com)
+[CS101 项目地址](https://www.fducslg.com)
